@@ -19,28 +19,6 @@ public class TUTORIAL_W4
         }
         else {
             System.out.println("Divisible by 3 but not by 5");
+             }
+            }
         }
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
