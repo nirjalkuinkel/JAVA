@@ -7,7 +7,7 @@
  */
 import java.util.Scanner;
 
-public class W5_assignment {
+public class Scenario_W5 {
     
     public static void main(String[] args) {
         
