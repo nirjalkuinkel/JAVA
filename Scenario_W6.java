@@ -1,4 +1,5 @@
 public class Scenario_W6 {
+    
     public static void main(String[] N) {
 
         String[] categories= {"Fiction", "Nepali"};
